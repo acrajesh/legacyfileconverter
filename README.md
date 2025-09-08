@@ -51,7 +51,7 @@ python converter.py --copybook <path_to_copybook> --input <path_to_ebcdic_file> 
 ## Example
 
 ```bash
-python converter.py --copybook customer.cpy --input customer.dat --output customer.ascii --validate
+python converter.py --copybook customer.cpy --input customer.dat --output customer.out --validate
 ```
 
 ## Project Structure
